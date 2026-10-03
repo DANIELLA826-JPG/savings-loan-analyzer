@@ -79,5 +79,5 @@ This project recreates, with simulated data, the savings analysis I did at a cre
 ## Author
 
 Daniella Afrakomah Amankwah
-Computer Science major, Accounting minor, Livingstone College
+Computer Information Systems major, Accounting minor, Livingstone College
 [LinkedIn](https://www.linkedin.com/in/daniella-afrakomah-amankwah-a1608726b/)
